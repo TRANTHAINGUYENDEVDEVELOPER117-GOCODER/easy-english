@@ -8,13 +8,15 @@ Trang web giới thiệu khóa học tiếng Anh giao tiếp trực tuyến **No
 
 ## Xem trang web online (GitHub Pages)
 
-Sau khi đẩy lên GitHub và bật Pages, trang web sẽ có link dạng:
+**Link trang web của bạn:**
 
 ```
-https://TEN-GITHUB-CUA-BAN.github.io/TEN-REPO/
+https://tranthainguyendevdeveloper117-gocoder.github.io/easy-english/
 ```
 
-Ví dụ: nếu repo tên `easy-english` → `https://username.github.io/easy-english/`
+**Link repo GitHub:**
+
+https://github.com/TRANTHAINGUYENDEVDEVELOPER117-GOCODER/easy-english
 
 ## Cách đưa lên GitHub (3 bước)
 
