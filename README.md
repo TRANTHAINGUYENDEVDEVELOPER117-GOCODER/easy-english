@@ -6,9 +6,14 @@ Trang web giới thiệu khóa học tiếng Anh giao tiếp trực tuyến **No
 - **Email:** tommyhcm1513@gmail.com
 - **Học phí:** 6.970.000đ / 8 tuần
 
-## Xem trang web online (GitHub Pages)
+## Bật trang web (chỉ làm 1 lần)
 
-**Link trang web của bạn:**
+1. Mở link này: https://github.com/TRANTHAINGUYENDEVDEVELOPER117-GOCODER/easy-english/settings/pages
+2. **Build and deployment** → **Source** chọn: **Deploy from a branch**
+3. **Branch** chọn: `main` → folder **`/ (root)`** → bấm **Save**
+4. Đợi 1–3 phút, refresh trang Settings → sẽ hiện link trang web
+
+**Link trang web:**
 
 ```
 https://tranthainguyendevdeveloper117-gocoder.github.io/easy-english/
